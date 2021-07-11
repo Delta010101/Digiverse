@@ -1,0 +1,8 @@
+Game Idea: Digiverse
+
+Tasks to Complete: 
+	1. Develop game Idea
+	2. Create all UI for different screens
+	3. Make buttons work appropriately (including adding sound to buttons)
+	4. Create all gfx for game (including starter characters, and map)
+	

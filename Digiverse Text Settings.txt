@@ -1,0 +1,26 @@
+Homescreen UI values
+
+Small button text size: 250
+Font: gang of three
+color: #00fdf7 (cyan)
+
+Big button text size: 250-300
+Font: gang of three
+Color: #00fdf7 (cyan)
+
+Bevel and emboss settings:
+------------------------------------
+Depth: 620%
+Size: 20 px
+soften: 0
+
+120 degrees
+
+contour 1: 2 hills
+
+
+
+Contour 2 settings:
+------------------------------------
+Contour: gauss
+range: 100% 
